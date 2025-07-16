@@ -1,4 +1,5 @@
-# coinfection_provisioning
+# code README for the manuscript: 
+## Parasite responses to resource provisioning can be altered by within-host co-infection interactions 
 
 Overview
 
