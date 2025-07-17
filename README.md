@@ -1,4 +1,4 @@
-# code README for the manuscript: 
+# README 
 ## Parasite responses to resource provisioning can be altered by within-host co-infection interactions 
 
 Overview
