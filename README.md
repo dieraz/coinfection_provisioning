@@ -26,7 +26,8 @@ o	Key files:
 o	A collection of functions used across both models, promoting code reusability and modularity.
 4.	plots.nb:
 o	A Mathematica notebook used to generate Figures 4 and 5 from the manuscript, visualizing the results of the models.
-Summary of Workflow
+
+Summary of Workflow:
 •	In each model directory, main.R serves as the main entry point and calls the detailed model scripts (popdyn_det.R for population dynamics, and coinf_det_I9.R / coinf_det_L9.R for coinfection).
 •	After running the simulations, analysis.R processes the output data and performs further analysis.
 •	The plots.nb notebook is then used to create Figures 4 and 5, displaying the model results graphically.
